@@ -39,7 +39,7 @@ This project streamlines vehicle identification by automatically detecting numbe
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/KrMayank789/Number-Plate-Detection-with-State-Identification.git
+   git clone https://github.com/Deepbendu/smart-plate-detector.git
    ```  
 2. Navigate to the project directory:  
    ```bash
